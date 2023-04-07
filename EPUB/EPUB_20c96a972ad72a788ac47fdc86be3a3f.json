@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/the-gioi-phang-tom-luoc-lich-su-the-gioi-the-ky-21_19548.html",
+    "title" : "Thế Giới Phẳng: Tóm Lược Lịch Sử Thế Giới Thế Kỷ 21",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thomas L. Friedman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 5320,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_20c96a972ad72a788ac47fdc86be3a3f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_20c96a972ad72a788ac47fdc86be3a3f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/the-gioi-phang-tom-tat.sna/The%20Gioi%20Phang%20-%20Thomas%20Friedman.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5320,
+    "title" : "The Gioi Phang - Thomas Friedman"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/the-gioi-phang-tom-tat.sna/The%20Gioi%20Phang%20-%20Thomas%20Friedman.mp3",
+    "title" : "The Gioi Phang - Thomas Friedman",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

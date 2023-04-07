@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bai-hoc-dieu-ky-tu-chiec-xe-rac_19359.html",
+    "title" : "Bài Học Diệu Kỳ Từ Chiếc Xe Rác",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David J. Pollay",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 4980,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_d015ff69f5c172a20170789f7fa05d1c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_d015ff69f5c172a20170789f7fa05d1c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/01.BHDKTCXR_CamKetThu1_HayBoQuaNhungChiecXeRac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 945,
+    "title" : "01.BHDKTCXR CamKetThu1 HayBoQuaNhungChiecXeRac"
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/02.BHDKTCXR_CamKetThu2_DungTuVayBanCuocSongCuaMinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 676,
+    "title" : "02.BHDKTCXR CamKetThu2 DungTuVayBanCuocSongCuaMinh"
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/03.BHDKTCXR_CamKetThu3_DungBienMinhThanhChiecXeRac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 535,
+    "title" : "03.BHDKTCXR CamKetThu3 DungBienMinhThanhChiecXeRac"
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/04.BHDKTCXR_CamKetThu4_GiupNguoiKhacThoiXaRac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 597,
+    "title" : "04.BHDKTCXR CamKetThu4 GiupNguoiKhacThoiXaRac"
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/05.BHDKTCXR_CamKetThu5_CuocSongKhongCoXeRac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 423,
+    "title" : "05.BHDKTCXR CamKetThu5 CuocSongKhongCoXeRac"
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/06.BHDKTCXR_CamKetThu6_XayDungMotGiaDinhKhongCoXeRac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 831,
+    "title" : "06.BHDKTCXR CamKetThu6 XayDungMotGiaDinhKhongCoXeRac"
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/07.BHDKTCXR_CamKetThu7_XayDungMoiTRuongLamViecKhongCoXeRac_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 973,
+    "title" : "07.BHDKTCXR CamKetThu7 XayDungMoiTRuongLamViecKhongCoXeRac HET"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/01.BHDKTCXR_CamKetThu1_HayBoQuaNhungChiecXeRac.mp3",
+    "title" : "01.BHDKTCXR CamKetThu1 HayBoQuaNhungChiecXeRac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/02.BHDKTCXR_CamKetThu2_DungTuVayBanCuocSongCuaMinh.mp3",
+    "title" : "02.BHDKTCXR CamKetThu2 DungTuVayBanCuocSongCuaMinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/03.BHDKTCXR_CamKetThu3_DungBienMinhThanhChiecXeRac.mp3",
+    "title" : "03.BHDKTCXR CamKetThu3 DungBienMinhThanhChiecXeRac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/04.BHDKTCXR_CamKetThu4_GiupNguoiKhacThoiXaRac.mp3",
+    "title" : "04.BHDKTCXR CamKetThu4 GiupNguoiKhacThoiXaRac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/05.BHDKTCXR_CamKetThu5_CuocSongKhongCoXeRac.mp3",
+    "title" : "05.BHDKTCXR CamKetThu5 CuocSongKhongCoXeRac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/06.BHDKTCXR_CamKetThu6_XayDungMotGiaDinhKhongCoXeRac.mp3",
+    "title" : "06.BHDKTCXR CamKetThu6 XayDungMotGiaDinhKhongCoXeRac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bai-hoc-dieu-ky-tu-chiec-xe-rac.sna/07.BHDKTCXR_CamKetThu7_XayDungMoiTRuongLamViecKhongCoXeRac_HET.mp3",
+    "title" : "07.BHDKTCXR CamKetThu7 XayDungMoiTRuongLamViecKhongCoXeRac HET",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

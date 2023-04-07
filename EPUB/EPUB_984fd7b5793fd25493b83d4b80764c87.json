@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-co-tich-danh-cho-nguoi-lon_19282.html",
+    "title" : "Chuyện Cổ Tích Dành Cho Người Lớn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 13297,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_984fd7b5793fd25493b83d4b80764c87.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_984fd7b5793fd25493b83d4b80764c87.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1978,
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-01"
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1662,
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-02"
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2161,
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-03"
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1729,
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-04"
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1932,
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-05"
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2270,
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-06"
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-07"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-01.mp3",
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-02.mp3",
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-03.mp3",
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-04.mp3",
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-05.mp3",
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-06.mp3",
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-co-tich-danh-cho-nguoi-lon.sna/CHUYEN_CO_TICH_DANH_CHO_NGUOI_LON-07.mp3",
+    "title" : "CHUYEN CO TICH DANH CHO NGUOI LON-07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

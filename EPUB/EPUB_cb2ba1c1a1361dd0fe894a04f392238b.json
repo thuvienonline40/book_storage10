@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-giam-doc-hieu-qua_19834.html",
+    "title" : "Vị Giám Đốc Hiệu Quả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ken Blanchard",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8049,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_cb2ba1c1a1361dd0fe894a04f392238b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_cb2ba1c1a1361dd0fe894a04f392238b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vi-giam-doc-cua-hieu-qua-suu-tam-.sna/GiamDocHieuQua01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "L?i gi?i thi?u"
+  }, {
+    "href" : "https://archive.org/download/vi-giam-doc-cua-hieu-qua-suu-tam-.sna/GiamDocHieuQua02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2080,
+    "title" : "Ch? P th? hai"
+  }, {
+    "href" : "https://archive.org/download/vi-giam-doc-cua-hieu-qua-suu-tam-.sna/GiamDocHieuQua03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1436,
+    "title" : "Chìm trong suy nghi"
+  }, {
+    "href" : "https://archive.org/download/vi-giam-doc-cua-hieu-qua-suu-tam-.sna/GiamDocHieuQua04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1548,
+    "title" : "Th? thách cu?i cùng"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vi-giam-doc-cua-hieu-qua-suu-tam-.sna/GiamDocHieuQua01.mp3",
+    "title" : "L?i gi?i thi?u",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-giam-doc-cua-hieu-qua-suu-tam-.sna/GiamDocHieuQua02.mp3",
+    "title" : "Ch? P th? hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-giam-doc-cua-hieu-qua-suu-tam-.sna/GiamDocHieuQua03.mp3",
+    "title" : "Chìm trong suy nghi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-giam-doc-cua-hieu-qua-suu-tam-.sna/GiamDocHieuQua04.mp3",
+    "title" : "Th? thách cu?i cùng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

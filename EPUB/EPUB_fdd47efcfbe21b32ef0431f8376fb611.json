@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-don-tam-ly-trong-thuyet-phuc_19625.html",
+    "title" : "Những Đòn Tâm Lý Trong Thuyết Phục",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert B. Cialdini",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 38479,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_fdd47efcfbe21b32ef0431f8376fb611.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_fdd47efcfbe21b32ef0431f8376fb611.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "nhung-don-1"
+  }, {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "nhung-don-2"
+  }, {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "nhung-don-3"
+  }, {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "nhung-don-4"
+  }, {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7279,
+    "title" : "nhung-don-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-1.mp3",
+    "title" : "nhung-don-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-2.mp3",
+    "title" : "nhung-don-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-3.mp3",
+    "title" : "nhung-don-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-4.mp3",
+    "title" : "nhung-don-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-1/nhung-don-5.mp3",
+    "title" : "nhung-don-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

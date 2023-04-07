@@ -1,0 +1,186 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/du-quan-hoan_19806.html",
+    "title" : "Dụ Quân Hoan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thánh yêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 215496,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_4f8d39c6aa5e7c6e977bbe0e6a3b11c9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_4f8d39c6aa5e7c6e977bbe0e6a3b11c9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14019,
+    "title" : "du-quan-1"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13372,
+    "title" : "du-quan-10"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14219,
+    "title" : "du-quan-11"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14719,
+    "title" : "du-quan-12"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15031,
+    "title" : "du-quan-13"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14677,
+    "title" : "du-quan-14"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15838,
+    "title" : "du-quan-15"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14630,
+    "title" : "du-quan-2"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13825,
+    "title" : "du-quan-3"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14275,
+    "title" : "du-quan-4"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14616,
+    "title" : "du-quan-5"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14029,
+    "title" : "du-quan-6"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14038,
+    "title" : "du-quan-7"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13775,
+    "title" : "du-quan-8"
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14433,
+    "title" : "du-quan-9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-1.mp3",
+    "title" : "du-quan-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-10.mp3",
+    "title" : "du-quan-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-11.mp3",
+    "title" : "du-quan-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-12.mp3",
+    "title" : "du-quan-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-13.mp3",
+    "title" : "du-quan-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-14.mp3",
+    "title" : "du-quan-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-15.mp3",
+    "title" : "du-quan-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-2.mp3",
+    "title" : "du-quan-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-3.mp3",
+    "title" : "du-quan-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-4.mp3",
+    "title" : "du-quan-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-5.mp3",
+    "title" : "du-quan-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-6.mp3",
+    "title" : "du-quan-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-7.mp3",
+    "title" : "du-quan-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-8.mp3",
+    "title" : "du-quan-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-quan-2/du-quan-9.mp3",
+    "title" : "du-quan-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

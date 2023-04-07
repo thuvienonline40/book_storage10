@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duong-may-trong-coi-mong_19439.html",
+    "title" : "Đường Mây Trong Cõi Mộng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "ĐẠI SƯ HÁM SƠN",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 53345,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_e09034dba48f580bd217b80eda9ce3ff.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_e09034dba48f580bd217b80eda9ce3ff.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13069,
+    "title" : "coi-mong-1"
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4383,
+    "title" : "coi-mong-2"
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13576,
+    "title" : "coi-mong-3"
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7410,
+    "title" : "coi-mong-4"
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6984,
+    "title" : "coi-mong-5"
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7923,
+    "title" : "coi-mong-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-1.mp3",
+    "title" : "coi-mong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-2.mp3",
+    "title" : "coi-mong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-3.mp3",
+    "title" : "coi-mong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-4.mp3",
+    "title" : "coi-mong-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-5.mp3",
+    "title" : "coi-mong-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/coi-mong-3/coi-mong-6.mp3",
+    "title" : "coi-mong-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

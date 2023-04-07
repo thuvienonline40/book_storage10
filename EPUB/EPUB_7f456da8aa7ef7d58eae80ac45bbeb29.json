@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kinh-duoc-su_19845.html",
+    "title" : "Kinh Dược Sư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 1695,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_7f456da8aa7ef7d58eae80ac45bbeb29.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_7f456da8aa7ef7d58eae80ac45bbeb29.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/y-2mate.com-kinh-duo-c-su-ke-tro-m-huo-ng/y2mate.com%20-%20KINH%20D%C6%AF%E1%BB%A2C%20S%C6%AF%20%20K%E1%BA%BA%20TR%E1%BB%98M%20H%C6%AF%C6%A0NG.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1695,
+    "title" : "y2mate.com - KINH DƯỢC SƯ  KẺ TRỘM HƯƠNG"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/y-2mate.com-kinh-duo-c-su-ke-tro-m-huo-ng/y2mate.com%20-%20KINH%20D%C6%AF%E1%BB%A2C%20S%C6%AF%20%20K%E1%BA%BA%20TR%E1%BB%98M%20H%C6%AF%C6%A0NG.mp3",
+    "title" : "y2mate.com - KINH DƯỢC SƯ  KẺ TRỘM HƯƠNG",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

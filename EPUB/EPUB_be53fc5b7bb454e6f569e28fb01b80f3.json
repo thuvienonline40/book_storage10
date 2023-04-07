@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tim-kiem-ben-trong-ban-tao-ra-loi-nhuan-vuot-qua-dai-duong-va-thay-doi-the-gioi_19910.html",
+    "title" : "Tìm Kiếm Bên Trong Bạn - Tạo Ra Lợi Nhuận, Vượt Qua Đại Dương Và Thay Đổi Thế Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chade Meng Tan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 23332,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_be53fc5b7bb454e6f569e28fb01b80f3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_be53fc5b7bb454e6f569e28fb01b80f3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/search-1_202201/search-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "search-1"
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "search-2"
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "search-3"
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "search-4"
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "search-5"
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3832,
+    "title" : "search-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/search-1_202201/search-1.mp3",
+    "title" : "search-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-2.mp3",
+    "title" : "search-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-3.mp3",
+    "title" : "search-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-4.mp3",
+    "title" : "search-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-5.mp3",
+    "title" : "search-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/search-1_202201/search-6.mp3",
+    "title" : "search-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

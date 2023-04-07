@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-dong-ca-chet-nguoi_19596.html",
+    "title" : "Bản Đồng Ca Chết Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James H. Chase",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 20128,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_687da06acd68e7a37f0415f8111072b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_687da06acd68e7a37f0415f8111072b8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL001%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1164,
+    "title" : "SNNL001 ― Bản Đồng Ca Chết Người ― Chương 1"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL002%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1578,
+    "title" : "SNNL002 ― Bản Đồng Ca Chết Người ― Chương 2"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL003%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1813,
+    "title" : "SNNL003 ― Bản Đồng Ca Chết Người ― Chương 3"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL004%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "SNNL004 ― Bản Đồng Ca Chết Người ― Chương 4"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL005%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "SNNL005 ― Bản Đồng Ca Chết Người ― Chương 5"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL006%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1493,
+    "title" : "SNNL006 ― Bản Đồng Ca Chết Người ― Chương 6"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL007%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1713,
+    "title" : "SNNL007 ― Bản Đồng Ca Chết Người ― Chương 7"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL008%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1340,
+    "title" : "SNNL008 ― Bản Đồng Ca Chết Người ― Chương 8"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL009%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "SNNL009 ― Bản Đồng Ca Chết Người ― Chương 9"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL010%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2000,
+    "title" : "SNNL010 ― Bản Đồng Ca Chết Người ― Chương 10"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL011%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1333,
+    "title" : "SNNL011 ― Bản Đồng Ca Chết Người ― Chương 11"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL012%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1869,
+    "title" : "SNNL012 ― Bản Đồng Ca Chết Người ― Chương 12"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL013%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 459,
+    "title" : "SNNL013 ― Bản Đồng Ca Chết Người ― Chương 13"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL001%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "title" : "SNNL001 ― Bản Đồng Ca Chết Người ― Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL002%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "title" : "SNNL002 ― Bản Đồng Ca Chết Người ― Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL003%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "title" : "SNNL003 ― Bản Đồng Ca Chết Người ― Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL004%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "title" : "SNNL004 ― Bản Đồng Ca Chết Người ― Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL005%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "title" : "SNNL005 ― Bản Đồng Ca Chết Người ― Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL006%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "title" : "SNNL006 ― Bản Đồng Ca Chết Người ― Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL007%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "title" : "SNNL007 ― Bản Đồng Ca Chết Người ― Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL008%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "title" : "SNNL008 ― Bản Đồng Ca Chết Người ― Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL009%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "title" : "SNNL009 ― Bản Đồng Ca Chết Người ― Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL010%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "title" : "SNNL010 ― Bản Đồng Ca Chết Người ― Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL011%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "title" : "SNNL011 ― Bản Đồng Ca Chết Người ― Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL012%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "title" : "SNNL012 ― Bản Đồng Ca Chết Người ― Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Dong-Ca-Chet-Nguoi/SNNL013%20%E2%80%95%20B%E1%BA%A3n%20%C4%90%E1%BB%93ng%20Ca%20Ch%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "title" : "SNNL013 ― Bản Đồng Ca Chết Người ― Chương 13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

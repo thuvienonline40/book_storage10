@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-co-cai-chet_19635.html",
+    "title" : "Không Có Cái Chết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 27548,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_9a88cd8f1e739babf0287d6906fb61cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_9a88cd8f1e739babf0287d6906fb61cb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "khong-co-1"
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "khong-co-2"
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "khong-co-3"
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "khong-co-4"
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "khong-co-5"
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "khong-co-6"
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2348,
+    "title" : "khong-co-7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-1.mp3",
+    "title" : "khong-co-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-2.mp3",
+    "title" : "khong-co-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-3.mp3",
+    "title" : "khong-co-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-4.mp3",
+    "title" : "khong-co-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-5.mp3",
+    "title" : "khong-co-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-6.mp3",
+    "title" : "khong-co-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-1/khong-co-7.mp3",
+    "title" : "khong-co-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

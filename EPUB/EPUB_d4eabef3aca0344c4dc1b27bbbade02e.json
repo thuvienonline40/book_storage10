@@ -1,0 +1,256 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khi-dong-minh-thao-chay_19700.html",
+    "title" : "Khi Đồng Minh Tháo Chạy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Tiến Hưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 59805,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_d4eabef3aca0344c4dc1b27bbbade02e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_d4eabef3aca0344c4dc1b27bbbade02e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-01-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2135,
+    "title" : "KhiDongMinhThaoChay-01-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-02-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3130,
+    "title" : "KhiDongMinhThaoChay-02-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-03-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "KhiDongMinhThaoChay-03-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-04-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "KhiDongMinhThaoChay-04-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-05-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1954,
+    "title" : "KhiDongMinhThaoChay-05-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-06-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "KhiDongMinhThaoChay-06-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-07-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1993,
+    "title" : "KhiDongMinhThaoChay-07-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-08-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2591,
+    "title" : "KhiDongMinhThaoChay-08-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-09-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "KhiDongMinhThaoChay-09-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-10-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3162,
+    "title" : "KhiDongMinhThaoChay-10-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-11-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "KhiDongMinhThaoChay-11-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-12-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3280,
+    "title" : "KhiDongMinhThaoChay-12-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-13-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1977,
+    "title" : "KhiDongMinhThaoChay-13-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-14-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "KhiDongMinhThaoChay-14-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-15-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2666,
+    "title" : "KhiDongMinhThaoChay-15-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-16-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4097,
+    "title" : "KhiDongMinhThaoChay-16-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-17-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1137,
+    "title" : "KhiDongMinhThaoChay-17-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-18-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "KhiDongMinhThaoChay-18-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-19-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1102,
+    "title" : "KhiDongMinhThaoChay-19-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-20-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2429,
+    "title" : "KhiDongMinhThaoChay-20-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-21-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "KhiDongMinhThaoChay-21-thuvienaudio.net-NTienHung-NgocVan"
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-22end-thuvienaudio.net-NTHung-NgocVan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2167,
+    "title" : "KhiDongMinhThaoChay-22end-thuvienaudio.net-NTHung-NgocVan"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-01-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-01-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-02-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-02-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-03-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-03-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-04-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-04-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-05-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-05-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-06-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-06-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-07-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-07-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-08-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-08-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-09-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-09-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-10-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-10-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-11-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-11-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-12-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-12-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-13-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-13-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-14-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-14-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-15-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-15-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-16-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-16-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-17-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-17-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-18-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-18-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-19-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-19-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-20-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-20-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-21-thuvienaudio.net-NTienHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-21-thuvienaudio.net-NTienHung-NgocVan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KhiDongMinhThaoChay01Thuvienaudio.netNTienHungNgocVan/KhiDongMinhThaoChay-22end-thuvienaudio.net-NTHung-NgocVan.mp3",
+    "title" : "KhiDongMinhThaoChay-22end-thuvienaudio.net-NTHung-NgocVan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

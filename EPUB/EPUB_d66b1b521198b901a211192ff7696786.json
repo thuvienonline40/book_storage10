@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dot-pha-honda-bi-mat-thanh-cong-cua-cong-ty-xe-sang-tao-nhat-the-gioi_19507.html",
+    "title" : "Đột Phá Honda - Bí Mật Thành Công Của Công Ty Xe Sáng Tạo Nhất Thế Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jeffrey Rothfeder",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 40260,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_d66b1b521198b901a211192ff7696786.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_d66b1b521198b901a211192ff7696786.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "dot-pha-1"
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "dot-pha-2"
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "dot-pha-3"
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "dot-pha-4"
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "dot-pha-5"
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4260,
+    "title" : "dot-pha-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-1.mp3",
+    "title" : "dot-pha-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-2.mp3",
+    "title" : "dot-pha-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-3.mp3",
+    "title" : "dot-pha-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-4.mp3",
+    "title" : "dot-pha-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-5.mp3",
+    "title" : "dot-pha-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-pha-1/dot-pha-6.mp3",
+    "title" : "dot-pha-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

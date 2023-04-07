@@ -1,0 +1,246 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-duy-tich-cuc-de-thanh-cong_19533.html",
+    "title" : "Tư Duy Tích Cực Để Thành Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Napoleon Hill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 36187,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_ff3dfa3259a33316fd0446cddc95c0b4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_ff3dfa3259a33316fd0446cddc95c0b4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/01.MoDau_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1403,
+    "title" : "01.MoDau TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/02.P01C01_GapGoNguoiQuanTrongNhat_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2376,
+    "title" : "02.P01C01 GapGoNguoiQuanTrongNhat TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/03.P01C02_BanCoTheThayDoiCaTheGioi_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2004,
+    "title" : "03.P01C02 BanCoTheThayDoiCaTheGioi TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/04.P01C03_GoBoDamMangNhenTrongSuyNghi_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1597,
+    "title" : "04.P01C03 GoBoDamMangNhenTrongSuyNghi TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/05.P01C04_KhamPhaSucManhTinhThan_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1059,
+    "title" : "05.P01C04 KhamPhaSucManhTinhThan TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/06.P01C05_VaHonTheNua_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1579,
+    "title" : "06.P01C05 VaHonTheNua TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/07.P02C06_BanDangGapRacRoiU_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1521,
+    "title" : "07.P02C06 BanDangGapRacRoiU TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/08.P02C07_HocDeThay_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1937,
+    "title" : "08.P02C07 HocDeThay TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/09.P02C08_BiQuyetHoanThanhMucTieu_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1601,
+    "title" : "09.P02C08 BiQuyetHoanThanhMucTieu TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/10.P02C09_TaoDongLucChoBanThan_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1148,
+    "title" : "10.P02C09 TaoDongLucChoBanThan TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/11.P02C10_TaoDongLucChoNguoiKhac_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2168,
+    "title" : "11.P02C10 TaoDongLucChoNguoiKhac TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/12.P03C11_ConDuongTatDenSuGiauCo_C12_ThuHutSuGiauCo_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "12.P03C11 ConDuongTatDenSuGiauCo C12 ThuHutSuGiauCo TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/13.P03C13_NeuKhongCoTienHaySuDungOPM_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "13.P03C13 NeuKhongCoTienHaySuDungOPM TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/14.P03C14_DeHaiLongTrongCongViec_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1671,
+    "title" : "14.P03C14 DeHaiLongTrongCongViec TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/15.P03C15_NoiAmAnhTichCuc_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2143,
+    "title" : "15.P03C15 NoiAmAnhTichCuc TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/16.P04C16_GiaTangNguonSinhLucCuaBan_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1462,
+    "title" : "16.P04C16 GiaTangNguonSinhLucCuaBan TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/17.P04C17_CoSucKhoeVaSongThoHon_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "17.P04C17 CoSucKhoeVaSongThoHon TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/18.P04C18_BanCoTheThuHutHanhPhucHayKhong_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1965,
+    "title" : "18.P04C18 BanCoTheThuHutHanhPhucHayKhong TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/19.P04C19_XuaTanCamGiacToiLoi_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1838,
+    "title" : "19.P04C19 XuaTanCamGiacToiLoi TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/20.P05C20_KiemTraChiSoThanhCong_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1252,
+    "title" : "20.P05C20 KiemTraChiSoThanhCong TuDuyTichCucTaoThanhCong"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/21.P05C21_HET_DanhThucNguoiKhong_TuDuyTichCucTaoThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1593,
+    "title" : "21.P05C21 HET DanhThucNguoiKhong TuDuyTichCucTaoThanhCong"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/01.MoDau_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "01.MoDau TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/02.P01C01_GapGoNguoiQuanTrongNhat_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "02.P01C01 GapGoNguoiQuanTrongNhat TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/03.P01C02_BanCoTheThayDoiCaTheGioi_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "03.P01C02 BanCoTheThayDoiCaTheGioi TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/04.P01C03_GoBoDamMangNhenTrongSuyNghi_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "04.P01C03 GoBoDamMangNhenTrongSuyNghi TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/05.P01C04_KhamPhaSucManhTinhThan_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "05.P01C04 KhamPhaSucManhTinhThan TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/06.P01C05_VaHonTheNua_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "06.P01C05 VaHonTheNua TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/07.P02C06_BanDangGapRacRoiU_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "07.P02C06 BanDangGapRacRoiU TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/08.P02C07_HocDeThay_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "08.P02C07 HocDeThay TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/09.P02C08_BiQuyetHoanThanhMucTieu_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "09.P02C08 BiQuyetHoanThanhMucTieu TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/10.P02C09_TaoDongLucChoBanThan_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "10.P02C09 TaoDongLucChoBanThan TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/11.P02C10_TaoDongLucChoNguoiKhac_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "11.P02C10 TaoDongLucChoNguoiKhac TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/12.P03C11_ConDuongTatDenSuGiauCo_C12_ThuHutSuGiauCo_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "12.P03C11 ConDuongTatDenSuGiauCo C12 ThuHutSuGiauCo TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/13.P03C13_NeuKhongCoTienHaySuDungOPM_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "13.P03C13 NeuKhongCoTienHaySuDungOPM TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/14.P03C14_DeHaiLongTrongCongViec_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "14.P03C14 DeHaiLongTrongCongViec TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/15.P03C15_NoiAmAnhTichCuc_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "15.P03C15 NoiAmAnhTichCuc TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/16.P04C16_GiaTangNguonSinhLucCuaBan_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "16.P04C16 GiaTangNguonSinhLucCuaBan TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/17.P04C17_CoSucKhoeVaSongThoHon_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "17.P04C17 CoSucKhoeVaSongThoHon TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/18.P04C18_BanCoTheThuHutHanhPhucHayKhong_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "18.P04C18 BanCoTheThuHutHanhPhucHayKhong TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/19.P04C19_XuaTanCamGiacToiLoi_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "19.P04C19 XuaTanCamGiacToiLoi TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/20.P05C20_KiemTraChiSoThanhCong_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "20.P05C20 KiemTraChiSoThanhCong TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-tich-cuc-tao-thanh-cong.sna/21.P05C21_HET_DanhThucNguoiKhong_TuDuyTichCucTaoThanhCong.mp3",
+    "title" : "21.P05C21 HET DanhThucNguoiKhong TuDuyTichCucTaoThanhCong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

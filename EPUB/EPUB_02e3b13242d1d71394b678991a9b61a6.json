@@ -1,0 +1,56 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doi-tho_19869.html",
+    "title" : "Đồi Thỏ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Adams",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 7692,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_02e3b13242d1d71394b678991a9b61a6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_02e3b13242d1d71394b678991a9b61a6.gif",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doi-tho-2/doi-tho-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "doi-tho-1"
+  }, {
+    "href" : "https://archive.org/download/doi-tho-2/doi-tho-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3988,
+    "title" : "doi-tho-2"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doi-tho-2/doi-tho-1.mp3",
+    "title" : "doi-tho-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-tho-2/doi-tho-2.mp3",
+    "title" : "doi-tho-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

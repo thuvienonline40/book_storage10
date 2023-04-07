@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/pho-tuong-rong-vang_19885.html",
+    "title" : "Pho Tượng Rồng Vàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Đăng Cấp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8378,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_690a260c336a7a80d5aa5af3e8de84de.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_690a260c336a7a80d5aa5af3e8de84de.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/pho-tuong/pho-tuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8378,
+    "title" : "pho-tuong"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/pho-tuong/pho-tuong.mp3",
+    "title" : "pho-tuong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

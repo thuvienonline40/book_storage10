@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-noi-loan-ngoan-muc_19708.html",
+    "title" : "Cuộc Nổi Loạn Ngoạn Mục",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Natsume Soseki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 0,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_cca2cb1358134559af6fd875e89d8c9f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_cca2cb1358134559af6fd875e89d8c9f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/1_Chu__o__ng_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 Chu  o  ng 6"
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/2_Chu__o__ng_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 Chu  o  ng 7"
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/3_Chu__o__ng_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 Chu  o  ng 8"
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/4_Chu__o__ng_9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 Chu  o  ng 9"
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/5_Chu__o__ng_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "5 Chu  o  ng 10"
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/6_Chu__o__ng_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "6 Chu  o  ng 11"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/1_Chu__o__ng_6.mp3",
+    "title" : "1 Chu  o  ng 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/2_Chu__o__ng_7.mp3",
+    "title" : "2 Chu  o  ng 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/3_Chu__o__ng_8.mp3",
+    "title" : "3 Chu  o  ng 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/4_Chu__o__ng_9.mp3",
+    "title" : "4 Chu  o  ng 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/5_Chu__o__ng_10.mp3",
+    "title" : "5 Chu  o  ng 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-noi-loan-ngoan-muc-phan-2.sna/6_Chu__o__ng_11.mp3",
+    "title" : "6 Chu  o  ng 11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

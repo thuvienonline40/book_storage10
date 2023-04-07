@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-hoach-quan-ly-tai-chinh-ca-nhan_19479.html",
+    "title" : "Kế Hoạch Quản Lý Tài Chính Cá Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Joe Dominguez",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 39838,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_f474471bc5ed7601a92a15eb49e7dde9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_f474471bc5ed7601a92a15eb49e7dde9.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "ke-hoach-1"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "ke-hoach-2"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "ke-hoach-3"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "ke-hoach-4"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "ke-hoach-5"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3838,
+    "title" : "ke-hoach-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-1.mp3",
+    "title" : "ke-hoach-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-2.mp3",
+    "title" : "ke-hoach-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-3.mp3",
+    "title" : "ke-hoach-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-4.mp3",
+    "title" : "ke-hoach-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-5.mp3",
+    "title" : "ke-hoach-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202112/ke-hoach-6.mp3",
+    "title" : "ke-hoach-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

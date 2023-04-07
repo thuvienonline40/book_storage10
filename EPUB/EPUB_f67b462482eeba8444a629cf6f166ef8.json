@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-the-chuoc-loi_19652.html",
+    "title" : "Không Thể Chuộc Lỗi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Allen Hassan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 28087,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_f67b462482eeba8444a629cf6f166ef8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_f67b462482eeba8444a629cf6f166ef8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongthechuocloi01  Section 1"
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongthechuocloi01  Section 2"
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongthechuocloi01  Section 3"
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongthechuocloi01  Section 4"
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6,
+    "title" : "khongthechuocloi01  Section 5"
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi02%20%20Section%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongthechuocloi02  Section 1"
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi02%20%20Section%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongthechuocloi02  Section 2"
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi02%20%20Section%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongthechuocloi02  Section 3"
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi02%20%20Section%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "khongthechuocloi02  Section 4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%201.mp3",
+    "title" : "khongthechuocloi01  Section 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%202.mp3",
+    "title" : "khongthechuocloi01  Section 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%203.mp3",
+    "title" : "khongthechuocloi01  Section 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%204.mp3",
+    "title" : "khongthechuocloi01  Section 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi01%20%20Section%205.mp3",
+    "title" : "khongthechuocloi01  Section 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi02%20%20Section%201.mp3",
+    "title" : "khongthechuocloi02  Section 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi02%20%20Section%202.mp3",
+    "title" : "khongthechuocloi02  Section 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi02%20%20Section%203.mp3",
+    "title" : "khongthechuocloi02  Section 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongthechuocloi01section1/khongthechuocloi02%20%20Section%204.mp3",
+    "title" : "khongthechuocloi02  Section 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

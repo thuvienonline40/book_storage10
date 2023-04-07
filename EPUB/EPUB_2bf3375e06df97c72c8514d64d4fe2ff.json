@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doa-hoa-rung_19381.html",
+    "title" : "Đóa Hoa Rừng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 4145,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_2bf3375e06df97c72c8514d64d4fe2ff.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_2bf3375e06df97c72c8514d64d4fe2ff.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-doa/mot-doa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4145,
+    "title" : "mot-doa"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-doa/mot-doa.mp3",
+    "title" : "mot-doa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

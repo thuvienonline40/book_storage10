@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-cau-chuyen-giang-sinh-hay-nhat_19668.html",
+    "title" : "Những Câu Chuyện Giáng Sinh Hay Nhất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 10475,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_fe49c28764b72f5f59bdf2ad05811481.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_fe49c28764b72f5f59bdf2ad05811481.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/01.Loigioithieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 36,
+    "title" : "01.Loigioithieu"
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/02.Motthienthanmangdayxich.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1095,
+    "title" : "02.Motthienthanmangdayxich"
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/03.Chiechonvinhcuu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 243,
+    "title" : "03.Chiechonvinhcuu"
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/04.Nhungmangnhenvang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 632,
+    "title" : "04.Nhungmangnhenvang"
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/05.OnggiaNoelcothatkhong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 623,
+    "title" : "05.OnggiaNoelcothatkhong"
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/06.DemNoel.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1817,
+    "title" : "06.DemNoel"
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/07.Nhungcanhthu....mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 508,
+    "title" : "07.Nhungcanhthu..."
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/08.CayGiangSinhnhocongqueo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1824,
+    "title" : "08.CayGiangSinhnhocongqueo"
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/09.HoahongtrangdemGiangSinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3697,
+    "title" : "09.HoahongtrangdemGiangSinh"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/01.Loigioithieu.mp3",
+    "title" : "01.Loigioithieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/02.Motthienthanmangdayxich.mp3",
+    "title" : "02.Motthienthanmangdayxich",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/03.Chiechonvinhcuu.mp3",
+    "title" : "03.Chiechonvinhcuu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/04.Nhungmangnhenvang.mp3",
+    "title" : "04.Nhungmangnhenvang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/05.OnggiaNoelcothatkhong.mp3",
+    "title" : "05.OnggiaNoelcothatkhong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/06.DemNoel.mp3",
+    "title" : "06.DemNoel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/07.Nhungcanhthu....mp3",
+    "title" : "07.Nhungcanhthu...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/08.CayGiangSinhnhocongqueo.mp3",
+    "title" : "08.CayGiangSinhnhocongqueo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cau-chuyen-giang-sinh-hay-nhat/09.HoahongtrangdemGiangSinh.mp3",
+    "title" : "09.HoahongtrangdemGiangSinh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
