@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sach-den-ve-tinh-than-doanh-nhan_19894.html",
+    "title" : "Sách Đen Về Tinh Thần Doanh Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Fernando Trías de Bes",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 14356,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_63b2ef3eb9f50608d07af2380ef3c1c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_63b2ef3eb9f50608d07af2380ef3c1c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan01_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2038,
+    "title" : "SachDenVeTinhThanDoanhNhan01 Chuan"
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan0203_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "SachDenVeTinhThanDoanhNhan0203 Chuan"
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan0405_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1533,
+    "title" : "SachDenVeTinhThanDoanhNhan0405 Chuan"
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 928,
+    "title" : "SachDenVeTinhThanDoanhNhan06"
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan07_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "SachDenVeTinhThanDoanhNhan07 Chuan"
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan08_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1368,
+    "title" : "SachDenVeTinhThanDoanhNhan08 Chuan"
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 877,
+    "title" : "SachDenVeTinhThanDoanhNhan09"
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1386,
+    "title" : "SachDenVeTinhThanDoanhNhan10"
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan11121314.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2718,
+    "title" : "SachDenVeTinhThanDoanhNhan11121314"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan01_Chuan.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan01 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan0203_Chuan.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan0203 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan0405_Chuan.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan0405 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan06.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan07_Chuan.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan07 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan08_Chuan.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan08 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan09.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan10.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sach-den-ve-tinh-than-doanh-nhan-lam-giau-khong-kho.sna/SachDenVeTinhThanDoanhNhan11121314.mp3",
+    "title" : "SachDenVeTinhThanDoanhNhan11121314",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
