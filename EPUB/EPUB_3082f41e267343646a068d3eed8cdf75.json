@@ -1,0 +1,216 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dinh-mieu-va-le-hoi-dan-gian-mien-nam_19999.html",
+    "title" : "Đình Miếu Và Lễ Hội Dân Gian Miền Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 41863,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_3082f41e267343646a068d3eed8cdf75.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_3082f41e267343646a068d3eed8cdf75.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2660,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 01"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3462,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 02"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2088,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 03"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2560,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 04"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2284,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 05"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2596,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 06"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3133,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 07"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2792,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 08"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 09"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1645,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 10"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2234,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 11"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2142,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 12"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3312,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 13"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2031,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 14"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1573,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 15"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1517,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 16"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2017,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 17"
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1493,
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 18"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_01.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_02.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_03.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_04.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_05.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_06.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_07.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_08.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_09.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_10.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_11.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_12.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_13.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_14.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_15.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_16.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_17.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-mieu-va-le-hoi-dan-gian-mien-nam.sna/DINH_MIEU_LE_HOI_DAN_GIAN_MIEN_NAM_18.mp3",
+    "title" : "DINH MIEU LE HOI DAN GIAN MIEN NAM 18",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

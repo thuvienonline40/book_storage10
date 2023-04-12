@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/10-cau-chuyen-ma-hay-nhat-moi-thoi-dai_20002.html",
+    "title" : "10 Câu Chuyện Ma Hay Nhất Mọi Thời Đại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Michael Cox",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 18596,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_d55c07aa5d4cbd356e0d4eda02bfa5d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_d55c07aa5d4cbd356e0d4eda02bfa5d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2226,
+    "title" : "10-cau-1"
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2178,
+    "title" : "10-cau-2"
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2853,
+    "title" : "10-cau-3"
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2945,
+    "title" : "10-cau-4"
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3183,
+    "title" : "10-cau-5"
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2616,
+    "title" : "10-cau-6"
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2595,
+    "title" : "10-cau-7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-1.mp3",
+    "title" : "10-cau-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-2.mp3",
+    "title" : "10-cau-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-3.mp3",
+    "title" : "10-cau-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-4.mp3",
+    "title" : "10-cau-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-5.mp3",
+    "title" : "10-cau-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-6.mp3",
+    "title" : "10-cau-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/10-cau-5/10-cau-7.mp3",
+    "title" : "10-cau-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
