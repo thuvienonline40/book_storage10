@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/45-giay-tao-nen-thay-doi-thau-hieu-tiep-thi-mang-luoi_20049.html",
+    "title" : "45 Giây Tạo Nên Thay Đổi: Thấu Hiểu Tiếp Thị Mạng Lưới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Don Failla",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 3232,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_02b24a941713ad134f2eb2cb02bd7773.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_02b24a941713ad134f2eb2cb02bd7773.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/da-y-la-cuo-n-sa-ch-quan-tro-ng-sach-45-giay-tao-nen-thay-doi/%C4%90%C3%82Y%20L%C3%80%20CU%E1%BB%90N%20S%C3%81CH%20QUAN%20TR%E1%BB%8CNG-%20S%C3%A1ch%2045%20Gi%C3%A2y%20T%E1%BA%A1o%20N%C3%AAn%20Thay%20%C4%90%E1%BB%95i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "ĐÂY LÀ CUỐN SÁCH QUAN TRỌNG- Sách 45 Giây Tạo Nên Thay Đổi"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/da-y-la-cuo-n-sa-ch-quan-tro-ng-sach-45-giay-tao-nen-thay-doi/%C4%90%C3%82Y%20L%C3%80%20CU%E1%BB%90N%20S%C3%81CH%20QUAN%20TR%E1%BB%8CNG-%20S%C3%A1ch%2045%20Gi%C3%A2y%20T%E1%BA%A1o%20N%C3%AAn%20Thay%20%C4%90%E1%BB%95i.mp3",
+    "title" : "ĐÂY LÀ CUỐN SÁCH QUAN TRỌNG- Sách 45 Giây Tạo Nên Thay Đổi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

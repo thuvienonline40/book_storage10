@@ -1,0 +1,146 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-thuc-su-co-tai_20081.html",
+    "title" : "Bạn Thực Sự Có Tài!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tina Seelig",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 25233,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_1f39feaf94512ed69d3c33ab665f358e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_1f39feaf94512ed69d3c33ab665f358e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/00.GioiThieu_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "00.GioiThieu BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/01.%20P01_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "01. P01 BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/01._P01_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "01. P01 BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/02.P02_HC_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2919,
+    "title" : "02.P02 HC BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/03.%20P03_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2563,
+    "title" : "03. P03 BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/03._P03_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2563,
+    "title" : "03. P03 BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/04.%20P04_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2514,
+    "title" : "04. P04 BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/04._P04_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2514,
+    "title" : "04. P04 BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/05.P05_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2584,
+    "title" : "05.P05 BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/06.%20P06_Het_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1548,
+    "title" : "06. P06 Het BanThatSuCoTai"
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/06._P06_Het_BanThatSuCoTai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1548,
+    "title" : "06. P06 Het BanThatSuCoTai"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/00.GioiThieu_BanThatSuCoTai.mp3",
+    "title" : "00.GioiThieu BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/01.%20P01_BanThatSuCoTai.mp3",
+    "title" : "01. P01 BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/01._P01_BanThatSuCoTai.mp3",
+    "title" : "01. P01 BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/02.P02_HC_BanThatSuCoTai.mp3",
+    "title" : "02.P02 HC BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/03.%20P03_BanThatSuCoTai.mp3",
+    "title" : "03. P03 BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/03._P03_BanThatSuCoTai.mp3",
+    "title" : "03. P03 BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/04.%20P04_BanThatSuCoTai.mp3",
+    "title" : "04. P04 BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/04._P04_BanThatSuCoTai.mp3",
+    "title" : "04. P04 BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/05.P05_BanThatSuCoTai.mp3",
+    "title" : "05.P05 BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/06.%20P06_Het_BanThatSuCoTai.mp3",
+    "title" : "06. P06 Het BanThatSuCoTai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-that-su-co-tai.sna/06._P06_Het_BanThatSuCoTai.mp3",
+    "title" : "06. P06 Het BanThatSuCoTai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

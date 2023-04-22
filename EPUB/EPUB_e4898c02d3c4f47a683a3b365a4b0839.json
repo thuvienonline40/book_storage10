@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-doi-binh-an_20100.html",
+    "title" : "Sống Đời Bình An",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Suối Thông (Thích Nữ Hạnh Đức)",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 14726,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_e4898c02d3c4f47a683a3b365a4b0839.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_e4898c02d3c4f47a683a3b365a4b0839.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1466,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1681,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1351,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1576,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1073,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1235,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1436,
+    "title" : "Sống Đời Bình An"
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "Sống Đời Bình An"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-1.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-10.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-2.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-3.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-4.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-5.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-6.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-7.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-8.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-doi-3/song-doi-9.mp3",
+    "title" : "Sống Đời Bình An",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

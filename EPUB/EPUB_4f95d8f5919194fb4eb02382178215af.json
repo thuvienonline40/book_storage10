@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hay-cham-soc-me_20033.html",
+    "title" : "Hãy Chăm Sóc Mẹ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Shin Kyung-Sook",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 30746,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_4f95d8f5919194fb4eb02382178215af.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_4f95d8f5919194fb4eb02382178215af.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "hay-cham-01"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "hay-cham-02"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "hay-cham-03"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "hay-cham-04"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "hay-cham-05"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "hay-cham-06"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "hay-cham-07"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "hay-cham-08"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2880,
+    "title" : "hay-cham-09"
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1946,
+    "title" : "hay-cham-10"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-01.mp3",
+    "title" : "hay-cham-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-02.mp3",
+    "title" : "hay-cham-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-03.mp3",
+    "title" : "hay-cham-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-04.mp3",
+    "title" : "hay-cham-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-05.mp3",
+    "title" : "hay-cham-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-06.mp3",
+    "title" : "hay-cham-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-07.mp3",
+    "title" : "hay-cham-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-08.mp3",
+    "title" : "hay-cham-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-09.mp3",
+    "title" : "hay-cham-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-cham-01/hay-cham-10.mp3",
+    "title" : "hay-cham-10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

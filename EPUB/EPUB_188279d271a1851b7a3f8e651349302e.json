@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong_20086.html",
+    "title" : "Sakichi Toyoda Và Toyota - Thay Đổi Công Thức Của Khát Vọng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thu An",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 15641,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/EPUB/EPUB_188279d271a1851b7a3f8e651349302e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage10/main/IMAGE/IMAGE_188279d271a1851b7a3f8e651349302e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/00.GioiThieu_SakichiToyodaVaToyotaKhangDinhCongThucKhatVong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1382,
+    "title" : "00.GioiThieu SakichiToyodaVaToyotaKhangDinhCongThucKhatVong"
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/01.P01A_SakichiToyodaVatoyotaThayngThucKhatVong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2009,
+    "title" : "01.P01A SakichiToyodaVatoyotaThayngThucKhatVong"
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/02.P01B_SakachiToyodaVaToyotaThayDoiCongThucKhatVong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3082,
+    "title" : "02.P01B SakachiToyodaVaToyotaThayDoiCongThucKhatVong"
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/03.P02_SakichiToyodaVaToyotaThayDoiCongThucKhatVong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2711,
+    "title" : "03.P02 SakichiToyodaVaToyotaThayDoiCongThucKhatVong"
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/04.P03_SakichiToyodaVaToyotaThayDoiCongThucKhatVong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2286,
+    "title" : "04.P03 SakichiToyodaVaToyotaThayDoiCongThucKhatVong"
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/05.P04_SakichiToyodaToyotaThayDoiCongThucKhatVong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1557,
+    "title" : "05.P04 SakichiToyodaToyotaThayDoiCongThucKhatVong"
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/06.P05_Het_SakichiToyodaVaToyotaThayDoiCongThucKhatVong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2614,
+    "title" : "06.P05 Het SakichiToyodaVaToyotaThayDoiCongThucKhatVong"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/00.GioiThieu_SakichiToyodaVaToyotaKhangDinhCongThucKhatVong.mp3",
+    "title" : "00.GioiThieu SakichiToyodaVaToyotaKhangDinhCongThucKhatVong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/01.P01A_SakichiToyodaVatoyotaThayngThucKhatVong.mp3",
+    "title" : "01.P01A SakichiToyodaVatoyotaThayngThucKhatVong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/02.P01B_SakachiToyodaVaToyotaThayDoiCongThucKhatVong.mp3",
+    "title" : "02.P01B SakachiToyodaVaToyotaThayDoiCongThucKhatVong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/03.P02_SakichiToyodaVaToyotaThayDoiCongThucKhatVong.mp3",
+    "title" : "03.P02 SakichiToyodaVaToyotaThayDoiCongThucKhatVong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/04.P03_SakichiToyodaVaToyotaThayDoiCongThucKhatVong.mp3",
+    "title" : "04.P03 SakichiToyodaVaToyotaThayDoiCongThucKhatVong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/05.P04_SakichiToyodaToyotaThayDoiCongThucKhatVong.mp3",
+    "title" : "05.P04 SakichiToyodaToyotaThayDoiCongThucKhatVong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sakichi-toyoda-va-toyota-thay-doi-cong-thuc-cua-khat-vong.sna/06.P05_Het_SakichiToyodaVaToyotaThayDoiCongThucKhatVong.mp3",
+    "title" : "06.P05 Het SakichiToyodaVaToyotaThayDoiCongThucKhatVong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
