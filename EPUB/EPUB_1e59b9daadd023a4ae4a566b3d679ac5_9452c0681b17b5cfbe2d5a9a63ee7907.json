@@ -1,0 +1,211 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/the-punisher-the-slavers",
+    "title" : "The Punisher: The Slavers",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 6,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://3.bp.blogspot.com/-DHv64UiOP0Y/UTqWxluP_nI/AAAAAAAADWA/JhXKESOms2s/s2000/000.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-xMxS-xtxPBw/UTqWhUZ-IzI/AAAAAAAADUI/xCQvaqKx0Fw/s2000/000a.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-VCKsCwZ8qyk/UTqWhycQpQI/AAAAAAAADUU/IBaTzu_BnBU/s2000/001.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-S279MUoBah0/UTqWibZR66I/AAAAAAAADUY/3gSi8MA5NQI/s2000/002.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-1l670orn-yM/UTqWjNNGbZI/AAAAAAAADUk/5q2jKwRx8Rs/s2000/003.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-7Ah9wqDdQbc/UTqWj1MAtNI/AAAAAAAADUo/QhlgIOV2Ygg/s2000/004.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-z-oclEe30Sg/UTqWkkOG5GI/AAAAAAAADUw/MNb5vrA1BvE/s2000/005.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-OqFbSAab2Ds/UTqWoNnJdAI/AAAAAAAADU8/8u1xOPNgFAU/s2000/006.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-JbtbB3s73jU/UTqWpOLn2UI/AAAAAAAADVA/O87FOcZ1T9M/s2000/007.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-CpbGVALYzNg/UTqWqQuGCzI/AAAAAAAADVI/V41fyKu5d00/s2000/008.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-YYoMcAX0IX8/UTqWsNFNAcI/AAAAAAAADVU/WTkB9ex-RrI/s2000/009.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-zk47hsYPfs8/UTqWswdWuqI/AAAAAAAADVY/cb0xAJrIisQ/s2000/010.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-gUQKiX6xlD0/UTqWvC2XfuI/AAAAAAAADVg/mc6EwYXeyJc/s2000/011.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-OxtzeCGLWhU/UTqWwTy6qiI/AAAAAAAADVo/IFI5JOjPz6E/s2000/012.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-DGsuEcfhhOI/UTqWywEamPI/AAAAAAAADV8/LYJJ3yhTOI0/s2000/013.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-WQ6LMYiHnSU/UTqWyzdQkZI/AAAAAAAADV4/pwZV8-ffTf0/s2000/014.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-7pNrkrsSjgY/UTqW2qAHjAI/AAAAAAAADWU/yndRM-DHoFw/s2000/015.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-psTEkiEaurU/UTqW3ElN43I/AAAAAAAADWM/2sDt4v4jGQU/s2000/016.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-H4EbOcB5878/UTqW3UHlVUI/AAAAAAAADWY/MZ-5aLKlRvg/s2000/017.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-v6xA5cXBVuk/UTqW74Ck1nI/AAAAAAAADWk/XAuEMgdF9YU/s2000/018.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-BhbYzbc4BEs/UTqW8hAE4HI/AAAAAAAADWo/Y8o2CcS7xWM/s2000/019.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-_-X_6sz4fec/UTqW9aGMKlI/AAAAAAAADWw/qI54WA31EwY/s2000/020.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-iUkqsu-uwEA/UTqW_qhANCI/AAAAAAAADW8/HDbQYxGDc08/s2000/021.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-SSYsR5rZEKg/UTqXAebm81I/AAAAAAAADXA/t9aTy8pGeWk/s2000/022.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
