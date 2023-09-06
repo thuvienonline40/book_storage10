@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
-    "duration" : 9282,
+    "published" : "2023-09-06",
+    "duration" : 18564,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3ba0c2823c320831e13fe94ae3c6a504_ee3602d6b1bf560f4b16bc103c4d6298.mp3",
+    "href" : "https://archive.org/download/y-2mate.com-sach-noi-chung-ta-se-on-thoi-ma/y2mate.com%20-%20S%C3%A1ch%20N%C3%B3i%20Ch%C3%BAng%20Ta%20S%E1%BA%BD%20%E1%BB%94n%20Th%C3%B4i%20M%C3%A0.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9282,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3ba0c2823c320831e13fe94ae3c6a504_ee3602d6b1bf560f4b16bc103c4d6298.mp3",
+    "href" : "https://archive.org/download/y-2mate.com-sach-noi-chung-ta-se-on-thoi-ma/y2mate.com%20-%20S%C3%A1ch%20N%C3%B3i%20Ch%C3%BAng%20Ta%20S%E1%BA%BD%20%E1%BB%94n%20Th%C3%B4i%20M%C3%A0.mp3",
     "title" : "y2mate.com - Sách Nói Chúng Ta Sẽ Ổn Thôi Mà",
     "children" : [ ]
   } ],
