@@ -13,9 +13,14 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-22",
+    "published" : "2023-09-06",
     "duration" : 3232,
     "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
     "@type" : "http://schema.org/Audiobook",
     "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
   },
@@ -35,7 +40,9 @@
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3232,
-    "title" : "ĐÂY LÀ CUỐN SÁCH QUAN TRỌNG- Sách 45 Giây Tạo Nên Thay Đổi"
+    "title" : "ĐÂY LÀ CUỐN SÁCH QUAN TRỌNG- Sách 45 Giây Tạo Nên Thay Đổi",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
     "href" : "https://archive.org/download/da-y-la-cuo-n-sa-ch-quan-tro-ng-sach-45-giay-tao-nen-thay-doi/%C4%90%C3%82Y%20L%C3%80%20CU%E1%BB%90N%20S%C3%81CH%20QUAN%20TR%E1%BB%8CNG-%20S%C3%A1ch%2045%20Gi%C3%A2y%20T%E1%BA%A1o%20N%C3%AAn%20Thay%20%C4%90%E1%BB%95i.mp3",
